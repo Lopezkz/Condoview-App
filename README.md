@@ -158,10 +158,10 @@ git clone https://github.com/LucasBatista37/Condoview-App.git
   _Função:_ Desenvolvedor Mobile & Front-End  
   GitHub: [@LucasBatista37](https://github.com/LucasBatista37)
 
-- [![Foto de Adryan Alexander](https://github.com/adryan-santana-flooxmongagua.png?size=100)](https://github.com/adryan-santana-flooxmongagua)  
-  **Adryan Alexander**  
+- [![Foto de Adryan Alex.](https://github.com/adryan-santana-flooxmongagua.png?size=100)](https://github.com/Adryzzy)  
+  **Adryan Alex.**  
   _Função:_ Desenvolvedor Backend & Designer  
-  GitHub: [@adryan-santana-flooxmongagua](https://github.com/adryan-santana-flooxmongagua)
+  GitHub: [@adryan-santana-flooxmongagua](https://github.com/Adryzzy)
 
 - [![Foto de Nicholas Balbino](https://github.com/null.png?size=100)](https://github.com/NicDeveloper7)  
   **Nicholas Balbino**  
